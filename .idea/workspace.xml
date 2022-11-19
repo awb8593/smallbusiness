@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f3a617d-3da4-4c43-927e-cdebab5ed727" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -44,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668878505588</updated>
       <workItem from="1668878760114" duration="992000" />
+      <workItem from="1668884763440" duration="946000" />
     </task>
     <servers />
   </component>
